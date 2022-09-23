@@ -15,8 +15,7 @@ I'm currently working on React.<br>I'm currently learning DSA and OS.<br>Ask me 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivam-0510&icon=7&color=12)](https://visitcount.itsvg.in)
