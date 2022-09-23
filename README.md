@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Angular.<br>I'm currently learning DSA and OS.<br>Ask me about Java, and DSA.<br>
+I'm currently working on React.<br>I'm currently learning DSA and OS.<br>Ask me about Java, and DSA.<br>
 
 
 ## 🌐 Socials:
